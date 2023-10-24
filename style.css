@@ -1,1 +1,17 @@
+body {
+    background: #f4f2f6;
+}
 
+h1 {
+    color:blueviolet;
+    background: rgb(202, 114, 224);
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
+}
+
+em strong {
+    color: purple;
+}
